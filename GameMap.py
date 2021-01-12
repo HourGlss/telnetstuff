@@ -48,6 +48,8 @@ class Tile:
     def __repr__(self):
         return str(self)
 
+    def __hash__(self):
+
 
 class GameMap:
     gamemap = dict()

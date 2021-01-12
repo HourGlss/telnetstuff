@@ -11,7 +11,7 @@ class Player:
     y = 0
     details = {
         "username": "Xyf",
-        "password": "zxc"
+        "password": "nope"
     }
 
     def __print_response(self):
